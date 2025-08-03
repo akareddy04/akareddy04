@@ -1,6 +1,6 @@
- CS @ Michigan
 
 <!---
 akareddy04/akareddy04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://github.com/akareddy04/akareddy04/blob/main/README.md
