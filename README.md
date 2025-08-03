@@ -1,4 +1,4 @@
- CS @ University of Michigan
+ CS @ Michigan
 
 <!---
 akareddy04/akareddy04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
